@@ -12,3 +12,4 @@ uploads/
 .DS_Store
 coverage/
 .nyc_output/
+evoting.db
