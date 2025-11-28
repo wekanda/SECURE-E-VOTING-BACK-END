@@ -1,0 +1,11 @@
+reg_no,name,email,phone,program
+REG0011,Njoroge Kamau,student11@university.edu,+256712345688,Computer Science
+REG0012,Wairimu Njeri,student12@university.edu,+256722345689,Information Technology
+REG0013,Wanjala Simiyu,student13@university.edu,+256732345690,Software Engineering
+REG0014,Barasa Oduya,student14@university.edu,+256742345691,Business Administration
+REG0015,Omondi Adhiambo,student15@university.edu,+256752345692,Computer Science
+REG0016,Atieno Akinyi,student16@university.edu,+256762345693,Information Technology
+REG0017,Muthoni Wambui,student17@university.edu,+256772345694,Software Engineering
+REG0018,Nyambura Wangeci,student18@university.edu,+256782345695,Business Administration
+REG0019,Mumbi Kagendo,student19@university.edu,+256792345696,Computer Science
+REG0020,Waithera Wairimu,student20@university.edu,+256702345697,Information Technology

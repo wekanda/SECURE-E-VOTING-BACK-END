@@ -1,0 +1,11 @@
+reg_no,name,email,phone,program
+REG0001,Nakato Ssali,student1@university.edu,+256712345678,Computer Science
+REG0002,Nalwoga Muwanguzi,student2@university.edu,+256722345679,Information Technology
+REG0003,Kato Nabukeera,student3@university.edu,+256732345680,Software Engineering
+REG0004,Mugisha Tumushabe,student4@university.edu,+256742345681,Business Administration
+REG0005,Akello Ochieng,student5@university.edu,+256752345682,Computer Science
+REG0006,Achieng Wanjiku,student6@university.edu,+256762345683,Information Technology
+REG0007,Kiprop Chebet,student7@university.edu,+256772345684,Software Engineering
+REG0008,Ruto Koech,student8@university.edu,+256782345685,Business Administration
+REG0009,Musyoka Mutua,student9@university.edu,+256792345686,Computer Science
+REG0010,Kilonzo Wambua,student10@university.edu,+256702345687,Information Technology
